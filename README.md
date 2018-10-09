@@ -2,7 +2,7 @@
 Csend szenzor építés
 Egy napos Hackaton alkalmával a résztvevők az alábbi “Csend” szenzorokat építették meg
  
-1.	Kép a kész szenzo, cseppmentes házában
+1.	Kép a kész szenzor, cseppmentes házában
  
 2.	Kép Így nézett ki belülről
 Ehhez az alábbi alkatrészeket és szolgáltatásokat használták fel:
