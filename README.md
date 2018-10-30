@@ -4,9 +4,12 @@ Egy napos Hackaton alkalmával a résztvevők az alábbi “Csend” szenzorokat
  
 ![alt text](https://raw.githubusercontent.com/diysciencelab/SilenceSensor/master/img/sensor.jpg)
 1.	Kép a kész szenzor, cseppmentes házában
- 
+![alt text](https://raw.githubusercontent.com/diysciencelab/SilenceSensor/master/img/inside.jpg) 
 2.	Kép Így nézett ki belülről
+
 Ehhez az alábbi alkatrészeket és szolgáltatásokat használták fel:
+
+![alt text](https://raw.githubusercontent.com/diysciencelab/SilenceSensor/master/img/components.jpg)
  
 -	Weemos D1 Mini – ESP8266
 -	GY MAX4466 MIC
