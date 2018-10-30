@@ -23,6 +23,8 @@ Ehhez az alábbi alkatrészeket és szolgáltatásokat használták fel:
  
 
 Az alábbi áramkört megépítve elkezdődhetett a programozás és az adatok küldése a felhőbe.
- 
+
+![alt text](https://raw.githubusercontent.com/diysciencelab/SilenceSensor/master/img/circuit.jpg)
+
 A szokásos Adafruit IO könyvtárat a későbbiekben megváltoztattuk, hogy a WiFi manager támogatásával kiegészítsük. Ezáltal könnyebbé vált a kész szenzor WiFi hálózatra való felcsatlakoztatása. 
 Az alábbiakban az a kód részlet ami a D1 minikre is felkerült. Programozásra az Arduino IDE környezetet használták a résztvevők.
